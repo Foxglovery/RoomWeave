@@ -1,0 +1,6 @@
+@RoomWeave.Server_HostAddress = http://localhost:5103
+
+GET {{RoomWeave.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
